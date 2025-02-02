@@ -1,2 +1,7 @@
-# smart-start
-this project aims to build a basic foundation of the conceptual knowledge of every subjects inorder to build a base in a beginner as well as students who find it difficult to learn complex topics.
+# SMART START
+
+- SMART START educational website is made, using HTML, CSS & FIGMA.
+- Contains brief information regarding the subjects when scrolling.
+- Includes light mode only.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
